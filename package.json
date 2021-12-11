@@ -1,0 +1,27 @@
+{
+  "name": "scopenotifier",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "dependencies": {
+    "axios": "^0.24.0",
+    "cli-progress": "^3.9.1",
+    "colors": "^1.4.0",
+    "commander": "^8.3.0",
+    "ora": "^6.0.1",
+    "retry-axios": "^2.6.0"
+  },
+  "devDependencies": {},
+  "keywords": [
+    "bug bounty",
+    "cli",
+    "nodejs",
+    "scopes",
+    "programs",
+    "automation",
+    "bug bounty platform"
+  ],
+  "author": "Amirhossein Bidokhti",
+  "license": "MIT"
+}
